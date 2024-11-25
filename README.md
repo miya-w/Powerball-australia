@@ -17,9 +17,11 @@ A classic study by John Kerrich during World War II involved tossing a coin 10,0
 
 How Many Tosses to Reach 50-50?
 
-Mathematically, there is no guarantee that the absolute counts of heads and tails will ever be perfectly equal. The probability of an exact tie decreases as the number of tosses increases due to the growing permutations of outcomes. However, the proportion (percentage) will get arbitrarily close to 50-50 as the number of tosses grows indefinitely.
+Mathematically, ***there is no guarantee*** that the absolute counts of heads and tails will ever be perfectly equal. The probability of an exact tie decreases as the number of tosses increases due to the growing permutations of outcomes. However, the proportion (percentage) will get arbitrarily close to 50-50 as the number of tosses grows indefinitely.
 
-While probability theory can explain long-term trends in randomness, it cannot predict specific outcomes in the short term. Each draw is an independent event, and the odds of winning the jackpot remain astronomically low.
+ While probability theory can explain long-term trends in randomness, it cannot predict specific outcomes in the short term. Each draw is an independent event, and the odds of winning the jackpot remain astronomically. 
+
+
 Resources
 ---
 - [the Lott - Powerball](https://www.thelott.com/powerball/results)
