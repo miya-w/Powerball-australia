@@ -1,5 +1,5 @@
 # Australian Powerball analysis 
-![]()
+![img](https://github.com/miya-w/Powerball-australia/blob/main/images/pb-img.png)
 #### Description
  The Australian Powerball Analysis project delves into historical Powerball lottery data to uncover patterns, trends, and insights.
 
